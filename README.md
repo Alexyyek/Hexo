@@ -1,7 +1,7 @@
 Hexo
 ====
 
-The blog contain two themes with [Pacman](https://github.com/A-limon/pacman) and [Jacman](https://github.com/wuchong/jacman), and you can also choose other themes [here](https://github.com/hexojs/hexo/wiki/Themes)
+The blog contain the theme [Jacman](https://github.com/wuchong/jacman) based on the origin [Pacman](https://github.com/A-limon/pacman), and you can also choose other themes [here](https://github.com/hexojs/hexo/wiki/Themes)
 
 
 Jacman is a flat and responsive design theme for [Hexo](http://hexo.io) based on [Pacman](https://github.com/A-limon/pacman).  
